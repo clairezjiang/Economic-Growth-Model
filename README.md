@@ -10,4 +10,5 @@ This is an Excel assignment that I did in school for one of my economics classes
 
 The main focus is to get the correct visualizations for the model given the three main topics listed above, as well as understand the model itself by hands on practice. 
 
-Scored out of 150 points. I got 150/150. 
+Scored out of 150 points, where full points are given to projects that "have no calculation mistakes and are also visually appealing". 
+My score for the project: 150/150. 
